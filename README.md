@@ -15,8 +15,11 @@ No sunlight reaches these depths, no sea creature dares visit these waters—all
 - *Space Bar* - Fire Torpedo
 - *S* - Sonar Ping
 - *E* - Get Last Known Location
+
+## **Debug**
+*Note: Not intended for actual gameplay*
 - *R* - Randomly place ball (BUG: you may have to press it twice)
-- *C* or *`* -Toggle camera (on/off)
+- *C* or *`* - Toggle camera (on/off)
  
 
 ## What's New?
