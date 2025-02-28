@@ -1,5 +1,23 @@
-# Sub Hunt
- A setup project for the sub hunt game.
+# **SubHunt: A Submarine Battle Game**  
+
+The vast nothingness of the ocean has been disturbed by a silent enemy! A submarine is lurking somewhere out there, bent on hunting you down. 
+
+No sunlight reaches these depths, no sea creature dares visit these waters—all that exists is the prey and the predator sub. Now it's your job to determine which sub becomes the prey and which becomes the predator.  
+
+## Gameplay  
+- Fire torpedoes to attack.  
+- Use sonar pings to locate the enemy (*Beware! frequent pings reveal your location*).  
+- Predict enemy movement based on the last known ping.  
+- Destroy the enemy to advance levels.  
+
+## **Controls**
+- *Up, Down, Right, Left* - Move and Turn
+- *Space Bar* - Fire Torpedo
+- *S* - Sonar Ping
+- *E* - Get Last Known Location
+- *R* - Randomly place ball (BUG: you may have to press it twice)
+- *C* or *`* -Toggle camera (on/off)
+ 
 
 ## What's New?
 ### 2/26/2025
