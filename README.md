@@ -1,3 +1,6 @@
+# Play the Game
+[Link](https://itch.io/jam/games-for-blind-gamers-4/rate/3362529)
+
 # **SubHunt: A Submarine Battle Game**  
 
 The vast nothingness of the ocean has been disturbed by a silent enemy! A submarine is lurking somewhere out there, bent on hunting you down. 
