@@ -7,12 +7,12 @@ The vast nothingness of the ocean has been disturbed by a silent enemy! A submar
 No sunlight reaches these depths, no sea creature dares visit these waters—all that exists is the prey and the predator sub. Now it's your job to determine which sub becomes the prey and which becomes the predator.  
 
 # Screenshots
-
+<p align="center">
 <img src="media/1.png" alt="Screenshot 1" width="400"/> 
 <img src="media/2.png" alt="Screenshot 1" width="400"/><br>
 <img src="media/3.png" alt="Screenshot 1" width="400"/>
 <img src="media/4.png" alt="Screenshot 1" width="400"/><br>
-
+</p>
 # [ITCH.IO SUBMISSION PAGE](https://cpresser.itch.io/subhunt)
 
 ## Gameplay  
