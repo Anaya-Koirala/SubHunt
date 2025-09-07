@@ -1,11 +1,12 @@
-# Play the Game
-[Link](https://itch.io/jam/games-for-blind-gamers-4/rate/3362529)
+# [PLAY ME!](https://itch.io/jam/games-for-blind-gamers-4/rate/3362529)
 
 # **SubHunt: A Submarine Battle Game**  
 
 The vast nothingness of the ocean has been disturbed by a silent enemy! A submarine is lurking somewhere out there, bent on hunting you down. 
 
 No sunlight reaches these depths, no sea creature dares visit these waters—all that exists is the prey and the predator sub. Now it's your job to determine which sub becomes the prey and which becomes the predator.  
+
+# [ITCH.IO SUBMISSION PAGE](https://cpresser.itch.io/subhunt)
 
 ## Gameplay  
 - Fire torpedoes to attack.  
